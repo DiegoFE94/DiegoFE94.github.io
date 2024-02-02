@@ -1,6 +1,10 @@
 github_users:
   - DiegoFE94
+
+  
+github_organizations:
   - MALL-Machine-Learning-in-Live-Sciences
+
 
 github_repos:
   - alshedivat/al-folio
