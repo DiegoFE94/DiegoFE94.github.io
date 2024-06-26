@@ -116,28 +116,28 @@
   "certificates": [
     {
       "name": "Advance course for the use of Supercomputer Centre",
-      "date": "2024-01-01",
+      "date": "2024",
       "issuer": "CESGA",
       "url": "https://www.cesga.es/en/home-2/",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "Fundamentals of Deep Learning",
-      "date": "2022-01-01",
+      "date": "2022",
       "issuer": "NVIDIA",
       "url": "https://www.nvidia.com/en-eu/",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Course for the use of Supercomputer Centre",
-      "date": "2020-01-01",
+      "date": "2020",
       "issuer": "CESGA",
       "url": "https://www.cesga.es/en/home-2/",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "III XoveTIC Congress",
-      "date": "2020-01-01",
+      "date": "2020",
       "issuer": "CITIC",
       "url": "https://xovetic.citic.udc.es/xovetic2020/en/home/",
       "icon": "fa-solid fa-tag"
