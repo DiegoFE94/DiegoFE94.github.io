@@ -27,8 +27,8 @@
       "name": "CITIC, Universidade da Coruña",
       "position": "Bioinformatician",
       "url": "https://citic.udc.es/",
-      "startDate": "2023-05-01",
-      "endDate": "",
+      "startDate": "2023",
+      "endDate": "2023",
       "summary": "Working on an application for the detection of polyps in colonoscopy using Deep Learning. As well as the integration of the models generated in web applications and mobile applications.I was working with python for image processing and model training (opencv, tensorflow, keras, scikit-learn...). For the web development I used flask and for the Android application I used TensorFlow Lite and Dart.",
       "highlights": ["Bioinformatics", "Computer Vision"]
     },
@@ -36,8 +36,8 @@
       "name": "Fundación Profesor Novoa Santos",
       "position": "Bioinformatician",
       "url": "https://www.fundacionprofesornovoasantos.org/es/",
-      "startDate": "",
-      "endDate": "2023-03-01",
+      "startDate": "2022",
+      "endDate": "2023",
       "summary": "Working as a bioinformatics researcher in a project called Practicum Direct (IN845D2020/03), focused on analysis, validation and testing of ad hoc simulation models designed with open data and predictive models based on real data. I had several duties: review of the state of the art in terms of availability of open omics and clinical data, implementation of predictive models on real open data in R/Python and create dashboards with R and Shiny for the manipulation and presentation of results in an interactive ways.",
       "highlights": ["Bioinformatics", "Machine Learning"]
     },
@@ -45,8 +45,8 @@
       "name": "Fundación Profesor Novoa Santos",
       "position": "Bioinformatician",
       "url": "https://www.fundacionprofesornovoasantos.org/es/",
-      "startDate": "2021-10-15",
-      "endDate": "2021-10-15",
+      "startDate": "2021",
+      "endDate": "2021",
       "summary": "working as a bioinformatics researcher in a colorectal cancer project. During this period I gained experience in metagenomic data processing, as well as, developing Machine Learning and Artificial Intelligence pipelines. Also I gained experience in the presentation and visualization of complex data.",
       "highlights": ["Bioinformatics", "Machine Learning"]
     }
@@ -69,8 +69,8 @@
       "url": "https://mall-lab.citic.udc.es/",
       "area": "Bioinformatics",
       "studyType": "PhD at MALL Lab",
-      "startDate": "",
-      "endDate": "Currently",
+      "startDate": "2021",
+      "endDate": "",
       "score": "TBD",
       "courses": ["Bioinformatics"]
     },
@@ -80,8 +80,8 @@
       "url": "https://www.master.bioinformatica.fic.udc.es/",
       "area": "Bioinformatics for Health Sciences",
       "studyType": "Bioinformatics for Health Sciences Masters degree",
-      "startDate": "2018-09-01",
-      "endDate": "2020-09-01",
+      "startDate": "2018",
+      "endDate": "2020",
       "score": "8.8",
       "courses": ["Bioinformatics"]
     },
@@ -91,8 +91,8 @@
       "url": "https://ciencias.udc.es/es/grado-en-biologia",
       "area": "Biology",
       "studyType": "Biology degree",
-      "startDate": "2012-09-01",
-      "endDate": "2018-07-01",
+      "startDate": "2012",
+      "endDate": "2018",
       "score": "6.4",
       "courses": ["Biology"]
     }
