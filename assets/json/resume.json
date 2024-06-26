@@ -36,7 +36,7 @@
       "name": "Fundación Profesor Novoa Santos",
       "position": "Bioinformatician",
       "url": "https://www.fundacionprofesornovoasantos.org/es/",
-      "startDate": "2022-03-01",
+      "startDate": "",
       "endDate": "2023-03-01",
       "summary": "Working as a bioinformatics researcher in a project called Practicum Direct (IN845D2020/03), focused on analysis, validation and testing of ad hoc simulation models designed with open data and predictive models based on real data. I had several duties: review of the state of the art in terms of availability of open omics and clinical data, implementation of predictive models on real open data in R/Python and create dashboards with R and Shiny for the manipulation and presentation of results in an interactive ways.",
       "highlights": ["Bioinformatics", "Machine Learning"]
@@ -145,25 +145,32 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Microbiome preterm birth DREAM challenge: Crowdsourcing machine learning approaches to advance preterm birth research",
+      "publisher": "Cell Reports Medicine",
+      "releaseDate": "2024-01-16",
+      "url": "https://doi.org/10.1016/j.xcrm.2023.101350",
+      "summary": "This work serves as the foundation for subsequent efforts to translate predictive tests into clinical practice and to better understand and prevent preterm birth."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
+      "name": "VIBES: A consensus subtyping of the vaginal microbiota reveals novel classification criteria",
+      "publisher": "Computational and Structural Biotechnology Journal",
+      "releaseDate": "2023-11-30",
+      "url": "https://doi.org/10.1016/j.csbj.2023.11.050",
+      "summary": "This study aimed to develop a robust classification scheme for stratifying patients based on vaginal microbiome. By employing consensus clustering analysis, we identified four distinct clusters using a cohort that includes individuals diagnosed with Bacterial Vaginosis (BV) as well as control participants, each characterized by unique patterns of microbiome species abundances."
+    },
+    {
+      "name": "Machine Learning analysis of the human infant gut microbiome identifies influential species in type 1 diabetes",
+      "publisher": "Expert Systems with Applications",
+      "releaseDate": "2021-12-15",
       "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "summary": "Diabetes is a disease that is closely linked to genetics and epigenetics, yet mechanisms for clarifying the onset and/or progression of the disease have sometimes not been fully managed. In recent years and due to the large number of recent studies, it is known that changes in the balance of the microbiota can cause a high battery of diseases, including diabetes."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
+      "name": "Identification of Pevotella, Anaerotruncus and Eubacterium Genera by Machine Learning Analysis of Metagenomic Profiles for Stratificaction of Patients Affected by Type I Diabetes",
+      "publisher": "Proceedings",
+      "releaseDate": "2020-08-27",
       "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "summary": "Previous works have reported different bacterial strains and genera as the cause of different clinical pathological conditions. In our approach, using the fecal metagenomic profiles of newborns, a machine learning-based model was generated capable of discerning between patients affected by type I diabetes and control"
     }
   ],
   "skills": [
