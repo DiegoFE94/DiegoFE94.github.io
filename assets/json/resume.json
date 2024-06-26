@@ -182,9 +182,9 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Coding",
+      "level": "Advance",
+      "icon": "fa-brands fa-github",
       "keywords": [
         "Quantum Mechanics",
         "Quantum Computing",
