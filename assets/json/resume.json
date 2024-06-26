@@ -25,7 +25,7 @@
   "work": [
     {
       "name": "CITIC, Universidade da Coruña",
-      "position": " Bioinformatician",
+      "position": "  Bioinformatician",
       "url": "https://citic.udc.es/",
       "startDate": "2023-05-01",
       "endDate": "2023-10-31",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Fundación Profesor Novoa Santos",
-      "position": " Bioinformatician",
+      "position": "  Bioinformatician",
       "url": "https://www.fundacionprofesornovoasantos.org/es/",
       "startDate": "2023-03-01",
       "endDate": "2022-03-01",
@@ -42,8 +42,8 @@
       "highlights": ["Bioinformatics", "Machine Learning"]
     },
     {
-      "name": "Fundación Profesor Novoa Santos ",
-      "position": " Bioinformatician",
+      "name": "Fundación Profesor Novoa Santos",
+      "position": "  Bioinformatician",
       "url": "https://www.fundacionprofesornovoasantos.org/es/",
       "startDate": "2021-04-11",
       "endDate": "2021-10-15",
@@ -64,15 +64,37 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of A Coruña",
+      "location": "A Coruña, Spain",
+      "url": "https://www.udc.es/",
+      "area": "Bioinformatics with omic data",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "startDate": "2021-03-01",
+      "endDate": "2025-03-01",
+      "score": "TBD",
       "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "University of A Coruña",
+      "location": "A Coruña, Spain",
+      "url": "https://www.udc.es/",
+      "area": "Bioinformatics for Health Sciences",
+      "studyType": "Bioinformatics for Health Sciences Masters degree",
+      "startDate": "2018-09-01",
+      "endDate": "2020-09-01",
+      "score": "8.8",
+      "courses": ["Bioinformatics"]
+    },
+    {
+      "institution": "University of A Coruña",
+      "location": "A Coruña, Spain",
+      "url": "https://www.udc.es/",
+      "area": "Biology",
+      "studyType": "Biology degree",
+      "startDate": "2012-09-01",
+      "endDate": "2018-07-01",
+      "score": "6.4",
+      "courses": ["Biology"]
     }
   ],
   "awards": [
