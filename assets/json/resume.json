@@ -184,27 +184,24 @@
     {
       "name": "Coding",
       "level": "Advance",
-      "icon": "fa-brands fa-github",
+      "icon": "fa-solid fa-laptop-code",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "R, Bash and Python",
+        "Bioconductor and Biopython",
+        "Docker, Singularity and Snakemake",
+        "Shiny and Flask",
+        "High Performance Computing",
+        "NGS Pipelines",
+        "Machine Learning"
       ]
     },
     {
-      "name": "Phosics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Productivity",
+      "level": "Advance",
+      "icon": "fa-solid fa-desktop",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "GitHub, Trello, Slack and Teams",
+        "Word, Excel and Powerpoint"
       ]
     }
   ],
