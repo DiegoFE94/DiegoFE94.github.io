@@ -27,19 +27,28 @@
       "name": "CITIC, Universidade da Coruña",
       "position": "Bioinformatician",
       "url": "https://citic.udc.es/",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Working on an application for the detection of polyps in colonoscopy using Deep Learning. As well as the integration of the models generated in web applications and mobile applications.",
+      "startDate": "2023-05-01",
+      "endDate": "2023-10-31",
+      "summary": "Working on an application for the detection of polyps in colonoscopy using Deep Learning. As well as the integration of the models generated in web applications and mobile applications.I was working with python for image processing and model training (opencv, tensorflow, keras, scikit-learn...). For the web development I used flask and for the Android application I used TensorFlow Lite and Dart.",
       "highlights": ["Bioinformatics", "Computer Vision"]
     },
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Fundación Profesor Novoa Santos",
+      "position": "Bioinformatician",
+      "url": "https://www.fundacionprofesornovoasantos.org/es/",
+      "startDate": "2023-03-01",
+      "endDate": "2022-03-01",
+      "summary": "Working as a bioinformatics researcher in a project called Practicum Direct (IN845D2020/03), focused on analysis, validation and testing of ad hoc simulation models designed with open data and predictive models based on real data. I had several duties: review of the state of the art in terms of availability of open omics and clinical data, implementation of predictive models on real open data in R/Python and create dashboards with R and Shiny for the manipulation and presentation of results in an interactive ways.",
+      "highlights": ["Bioinformatics", "Machine Learning"]
+    },
+    {
+      "name": "Fundación Profesor Novoa Santos ",
+      "position": "Bioinformatician",
+      "url": "https://www.fundacionprofesornovoasantos.org/es/",
+      "startDate": "2021-04-01",
+      "endDate": "2021-04-01",
+      "summary": "working as a bioinformatics researcher in a colorectal cancer project. During this period I gained experience in metagenomic data processing, as well as, developing Machine Learning and Artificial Intelligence pipelines. Also I gained experience in the presentation and visualization of complex data.",
+      "highlights": ["Bioinformatics", "Machine Learning"]
     }
   ],
   "volunteer": [
