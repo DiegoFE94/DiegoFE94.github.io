@@ -8,7 +8,7 @@
     "url": "https://diegofe94.github.io",
     "summary": "A bioinformatician under construction",
     "location": {
-      "address": "Emilio González López",
+      "address": "Campus de Elviña, s/n, 2 Floor, C-46",
       "postalCode": "A Coruña 15011",
       "city": "A Coruña",
       "countryCode": "SPA",
@@ -66,9 +66,9 @@
     {
       "institution": "University of A Coruña",
       "location": "A Coruña, Spain",
-      "url": "https://www.udc.es/",
+      "url": "https://mall-lab.citic.udc.es/",
       "area": "Bioinformatics with omic data",
-      "studyType": "PhD",
+      "studyType": "PhD at MALL Lab",
       "startDate": "2021-03-01",
       "endDate": "2025-03-01",
       "score": "TBD",
@@ -77,7 +77,7 @@
     {
       "institution": "University of A Coruña",
       "location": "A Coruña, Spain",
-      "url": "https://www.udc.es/",
+      "url": "https://www.master.bioinformatica.fic.udc.es/",
       "area": "Bioinformatics for Health Sciences",
       "studyType": "Bioinformatics for Health Sciences Masters degree",
       "startDate": "2018-09-01",
@@ -88,7 +88,7 @@
     {
       "institution": "University of A Coruña",
       "location": "A Coruña, Spain",
-      "url": "https://www.udc.es/",
+      "url": "https://ciencias.udc.es/es/grado-en-biologia",
       "area": "Biology",
       "studyType": "Biology degree",
       "startDate": "2012-09-01",
@@ -99,11 +99,18 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Honourable mention",
+      "date": "2020-09-01",
+      "awarder": "University of A Coruña",
+      "url": "https://www.master.bioinformatica.fic.udc.es/",
+      "summary": "Honourable mention in Master's thesis"
+    },
+    {
+      "title": "Honourable mention",
+      "date": "2020-09-01",
+      "awarder": "University of A Coruña",
+      "url": "https://www.master.bioinformatica.fic.udc.es/",
+      "summary": "Honourable mention in Data Structures and Algorithmics for Biological Sequences"
     }
   ],
   "certificates": [
