@@ -25,7 +25,7 @@
   "work": [
     {
       "name": "CITIC, Universidade da Coruña",
-      "position": "  Bioinformatician",
+      "position": "Bioinformatician",
       "url": "https://citic.udc.es/",
       "startDate": "2023-05-01",
       "endDate": "2023-10-31",
@@ -34,16 +34,16 @@
     },
     {
       "name": "Fundación Profesor Novoa Santos",
-      "position": "  Bioinformatician",
+      "position": "Bioinformatician",
       "url": "https://www.fundacionprofesornovoasantos.org/es/",
-      "startDate": "2023-03-01",
-      "endDate": "2022-03-01",
+      "startDate": "2022-03-01",
+      "endDate": "2023-03-01",
       "summary": "Working as a bioinformatics researcher in a project called Practicum Direct (IN845D2020/03), focused on analysis, validation and testing of ad hoc simulation models designed with open data and predictive models based on real data. I had several duties: review of the state of the art in terms of availability of open omics and clinical data, implementation of predictive models on real open data in R/Python and create dashboards with R and Shiny for the manipulation and presentation of results in an interactive ways.",
       "highlights": ["Bioinformatics", "Machine Learning"]
     },
     {
       "name": "Fundación Profesor Novoa Santos",
-      "position": "  Bioinformatician",
+      "position": "Bioinformatician",
       "url": "https://www.fundacionprofesornovoasantos.org/es/",
       "startDate": "2021-04-11",
       "endDate": "2021-10-15",
@@ -67,12 +67,12 @@
       "institution": "University of A Coruña",
       "location": "A Coruña, Spain",
       "url": "https://mall-lab.citic.udc.es/",
-      "area": "Bioinformatics with omic data",
+      "area": "Bioinformatics",
       "studyType": "PhD at MALL Lab",
       "startDate": "2021-03-01",
       "endDate": "2025-03-01",
       "score": "TBD",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Bioinformatics"]
     },
     {
       "institution": "University of A Coruña",
@@ -115,46 +115,32 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Advance course for the use of Supercomputer Centre",
+      "date": "2024-01-01",
+      "issuer": "CESGA",
+      "url": "https://www.cesga.es/en/home-2/",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Fundamentals of Deep Learning",
+      "date": "2022-01-01",
+      "issuer": "NVIDIA",
+      "url": "https://www.nvidia.com/en-eu/",
+      "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Course for the use of Supercomputer Centre",
+      "date": "2020-01-01",
+      "issuer": "CESGA",
+      "url": "https://www.cesga.es/en/home-2/",
+      "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "III XoveTIC Congress",
+      "date": "2020-01-01",
+      "issuer": "CITIC",
+      "url": "https://xovetic.citic.udc.es/xovetic2020/en/home/",
+      "icon": "fa-solid fa-tag"
     }
   ],
   "publications": [
