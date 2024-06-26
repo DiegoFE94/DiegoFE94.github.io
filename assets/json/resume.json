@@ -45,7 +45,7 @@
       "name": "Fundación Profesor Novoa Santos",
       "position": "Bioinformatician",
       "url": "https://www.fundacionprofesornovoasantos.org/es/",
-      "startDate": "2021-04-11",
+      "startDate": "2021-10-15",
       "endDate": "2021-10-15",
       "summary": "working as a bioinformatics researcher in a colorectal cancer project. During this period I gained experience in metagenomic data processing, as well as, developing Machine Learning and Artificial Intelligence pipelines. Also I gained experience in the presentation and visualization of complex data.",
       "highlights": ["Bioinformatics", "Machine Learning"]
@@ -69,8 +69,8 @@
       "url": "https://mall-lab.citic.udc.es/",
       "area": "Bioinformatics",
       "studyType": "PhD at MALL Lab",
-      "startDate": "2021-03-01",
-      "endDate": "2025-03-01",
+      "startDate": "",
+      "endDate": "",
       "score": "TBD",
       "courses": ["Bioinformatics"]
     },
@@ -162,14 +162,21 @@
       "name": "Machine Learning analysis of the human infant gut microbiome identifies influential species in type 1 diabetes",
       "publisher": "Expert Systems with Applications",
       "releaseDate": "2021-12-15",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
+      "url": "https://doi.org/10.1016/j.eswa.2021.115648",
       "summary": "Diabetes is a disease that is closely linked to genetics and epigenetics, yet mechanisms for clarifying the onset and/or progression of the disease have sometimes not been fully managed. In recent years and due to the large number of recent studies, it is known that changes in the balance of the microbiota can cause a high battery of diseases, including diabetes."
+    },
+    {
+      "name": "La Inteligencia Artificial como herramienta para la gestión y explotación de datos, informaciones y conocimientos biomédicos en entornos “Big Data” en la nube",
+      "publisher": "I+ S: Revista de la Sociedad Española de Informática y Salud",
+      "releaseDate": "2021-02-01",
+      "url": "https://seis.es/is-143/#page=30",
+      "summary": "En este artículo, se ofrecerá una panorámica, no exhaustiva, de la situación actual en la I+D+i de la Inteligencia Artificial en el campo Biomedicina, los pros y los contras, así como algunos de los “hitos” ya alcanzados en este ámbito."
     },
     {
       "name": "Identification of Pevotella, Anaerotruncus and Eubacterium Genera by Machine Learning Analysis of Metagenomic Profiles for Stratificaction of Patients Affected by Type I Diabetes",
       "publisher": "Proceedings",
       "releaseDate": "2020-08-27",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
+      "url": "https://doi.org/10.3390/proceedings2020054050",
       "summary": "Previous works have reported different bacterial strains and genera as the cause of different clinical pathological conditions. In our approach, using the fecal metagenomic profiles of newborns, a machine learning-based model was generated capable of discerning between patients affected by type I diabetes and control"
     }
   ],
