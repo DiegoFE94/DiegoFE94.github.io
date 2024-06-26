@@ -28,7 +28,7 @@
       "position": "Bioinformatician",
       "url": "https://citic.udc.es/",
       "startDate": "2023-05-01",
-      "endDate": "2023-10-31",
+      "endDate": "",
       "summary": "Working on an application for the detection of polyps in colonoscopy using Deep Learning. As well as the integration of the models generated in web applications and mobile applications.I was working with python for image processing and model training (opencv, tensorflow, keras, scikit-learn...). For the web development I used flask and for the Android application I used TensorFlow Lite and Dart.",
       "highlights": ["Bioinformatics", "Computer Vision"]
     },
