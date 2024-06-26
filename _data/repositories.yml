@@ -2,11 +2,9 @@ github_users:
   - DiegoFE94
 
 github_repos:
+  - DiegoFE94/MLMetaGenomics
+  - MALL-Machine-Learning-in-Live-Sciences/VIBES-analysis
+  - DiegoFE94/App_CPD
   - MALL-Machine-Learning-in-Live-Sciences/VIBES
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - MALL-Machine-Learning-in-Live-Sciences/MLMicrobiomeT1D
+  - MALL-Machine-Learning-in-Live-Sciences/DREAM-Microbiome
