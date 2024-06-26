@@ -6,7 +6,7 @@
     "email": "diego.fedreira@udc.es",
     "phone": "661 122 869",
     "url": "https://diegofe94.github.io",
-    "summary": "A Spa-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "A bioinformatician under construction",
     "location": {
       "address": "Emilio González López",
       "postalCode": "A Coruña 15011",
@@ -25,7 +25,7 @@
   "work": [
     {
       "name": "CITIC, Universidade da Coruña",
-      "position": "Bioinformatician",
+      "position": " Bioinformatician",
       "url": "https://citic.udc.es/",
       "startDate": "2023-05-01",
       "endDate": "2023-10-31",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Fundación Profesor Novoa Santos",
-      "position": "Bioinformatician",
+      "position": " Bioinformatician",
       "url": "https://www.fundacionprofesornovoasantos.org/es/",
       "startDate": "2023-03-01",
       "endDate": "2022-03-01",
@@ -43,10 +43,10 @@
     },
     {
       "name": "Fundación Profesor Novoa Santos ",
-      "position": "Bioinformatician",
+      "position": " Bioinformatician",
       "url": "https://www.fundacionprofesornovoasantos.org/es/",
-      "startDate": "2021-04-01",
-      "endDate": "2021-04-01",
+      "startDate": "2021-04-11",
+      "endDate": "2021-10-15",
       "summary": "working as a bioinformatics researcher in a colorectal cancer project. During this period I gained experience in metagenomic data processing, as well as, developing Machine Learning and Artificial Intelligence pipelines. Also I gained experience in the presentation and visualization of complex data.",
       "highlights": ["Bioinformatics", "Machine Learning"]
     }
