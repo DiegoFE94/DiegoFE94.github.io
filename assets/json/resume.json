@@ -200,8 +200,10 @@
       "level": "Advance",
       "icon": "fa-solid fa-desktop",
       "keywords": [
-        "GitHub, Trello, Slack and Teams",
-        "Word, Excel and Powerpoint"
+        "Trello, Slack and Teams",
+        "Word, Excel and Powerpoint",
+        "GitHub",
+        "ChatGPT prompts"
       ]
     }
   ],
@@ -229,48 +231,42 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Work",
+      "icon": "fa-solid fa-briefcase",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Transcriptomics",
+        "Drug discovery",
+        "Medical Imaging"
       ]
     },{
-      "name": "Phosics",
-      "icon": "fa-solid fa-tag",
+      "name": "Personal",
+      "icon": "fa-solid fa-user",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Coffee, Sleep and Food",
+        "Boxing",
+        "Manga"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Dr. Carlos Fernández Lozano",
+      "icon": "fa-solid fa-person-walking-with-cane",
+      "reference": "Associate Professor (Profesor Titular de Universidad) and vice-dean of computing resources of the Faculty of Computer Science at the University of A Coruña (UDC), Department of Computer Science and Information Technologies. Affiliated Researcher at the Centre for Information and Communications Technology Research (CITIC)."
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Dr. Jose Lilñares Blanco",
+      "icon": "fa-solid fa-person-walking-luggage",
+      "reference": "Postdoctoral researcher at Institute for Computational Biomedicine - Heidelberg University"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
+      "name":"TBD",
+      "summary": "TBD",
+      "highlights": ["TBD", "TBD"],
+      "startDate": "TBD",
+      "endDate": "TBD",
       "url": "https://example.com"
     }
   ]
