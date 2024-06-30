@@ -18,10 +18,8 @@ latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hiii!!
+Hi all!! :wave: :wave:
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Diego, bioinformatician and data scientist focusing on the area of biomedicine. I am interested in all the existing omic fields. Mainly experienced as bioinformatic and data analyst in different projects related to biomedical field. Currently focused microbiome and metagenomics profiles data integration and analysis with Machine Learning frameworks.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Experience working with different Machine Learning frameworks (SVM, RF, Glmnet, etc.) and dimensionality reduction techniques (FS wrapped, filter and embedded) applied in different problems (classification, clustering and regression). Daily use of Python and R. Experience in R Shiny web applications for project data visualization, through basics Shinys or complex Dashboards.
