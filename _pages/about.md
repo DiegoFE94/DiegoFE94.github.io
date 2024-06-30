@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Bioinformatician and PhD student at <a href='https://mall-lab.citic.udc.es/'>MALL</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_2.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>2nd Floor, C-46</p>
+    <p>Elviña Campus, CITIC s/n</p>
+    <p>15008 A Coruña, Spain.</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
