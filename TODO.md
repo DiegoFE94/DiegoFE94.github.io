@@ -7,3 +7,4 @@ Tasks to develope my web
 - [X] Reorder pages: CV, PUBS, BLOG, REP.
 - [X] Change News
 - [ ] Think about entry blogs
+- [ ] Delete Einstein roots
