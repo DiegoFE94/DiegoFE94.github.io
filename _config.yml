@@ -124,7 +124,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Coffe Stop # blog_name will be displayed in your blog page
-blog_description: Take a break with a coffee in your hand and enjoy reading some curiosities. 
+blog_description: Take a break with a coffee in your hand and enjoy reading some curiosities.
 permalink: /blog/:year/:title/
 
 # Pagination

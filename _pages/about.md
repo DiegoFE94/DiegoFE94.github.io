@@ -18,6 +18,7 @@ latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
 Hi all!! :wave: :wave:
 
 I am Diego, bioinformatician and data scientist focusing on the area of biomedicine. I am interested in all the existing omic fields. Mainly experienced as bioinformatic and data analyst in different projects related to biomedical field. Currently focused microbiome and metagenomics profiles data integration and analysis with Machine Learning frameworks.
