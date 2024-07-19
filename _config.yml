@@ -220,8 +220,8 @@ exclude:
   - purgecss.config.js
   - README.md
   - vendor
-  - _old_posts
-  - _old_projects
+  - old_posts
+  - old_projects
 keep_files:
   - CNAME
   - .nojekyll
