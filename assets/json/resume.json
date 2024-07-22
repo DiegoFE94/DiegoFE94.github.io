@@ -53,13 +53,13 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Small World Initiative",
+      "position": "Teacher",
+      "url": "http://www.smallworldinitiative.org/about",
+      "startDate": "2018",
+      "endDate": "2018",
+      "summary": "The Small World Initiative® (SWI) is an innovative program that encourages students to pursue careers in science while addressing a worldwide health threat superbugs and the diminishing supply of effective antibiotics",
+      "highlights": ["SWI","Superbugs", "Antibiotics", "Scientific dissemination"]
     }
   ],
   "education": [
