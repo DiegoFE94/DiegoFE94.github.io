@@ -8,7 +8,7 @@ Tasks to develope my web
 - [x] Reorder pages: CV, PUBS, BLOG, REP.
 - [x] Change News.
 - [ ] Add better description.
-- [ ] Add volunter antibiotics research.
-- [ ] Add projects where i was working. 
+- [x] Add volunter antibiotics research.
+- [X] Delete projects and let repositories. 
 - [ ] Think about entry blogs.
 - [ ] Delete Einstein roots.
