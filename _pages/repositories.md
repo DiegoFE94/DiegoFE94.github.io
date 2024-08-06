@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: In this section you can see a summary of my activity on GitHub-
+description: In this section you can see a summary of my activity on GitHub!!
 nav: true
 nav_order: 4
 ---
