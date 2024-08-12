@@ -21,3 +21,11 @@ The RePo-SUDOE project seeks to develop and disseminate technologies for drug re
 ---
 
 This project brings together, for the first time, partners from different SUDOE regions and different areas of the drug development value chain, in a common drug repurposing project. The RePo-SUDOE will put at the service of the scientific information society of easy consultation and open access, and decisive visualisation technologies for the affirmation of the area of drug repurposing in the SUDOE space.
+
+<p align="center">
+  <a href="https://interreg-sudoe.eu/en/proyecto-interreg/repo-sudoe/">
+    <img src="RePo_SUDOE.png" alt="Repo_Flyer" style="transform: scale(0.6);">
+  </a>
+</p>
+
+---
