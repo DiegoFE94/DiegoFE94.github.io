@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-I am delighted to announce that I have started a new contract as a research support technician in the European project ***"RePo-SUDOE: Drug Repurposing for Effective and Accelerated Drug Development in the SUDOE Space"***. See more below.
+I am delighted to announce that I have started a new contract as a research support technician in the European project ***"RePo-SUDOE: Drug Repurposing for Effective and Accelerated Drug Development in the SUDOE Space"***. See more information below.
 
 ---
 The RePo-SUDOE project seeks to develop and disseminate technologies for drug repurposing with the aim of increasing the competitiveness of the SUDOE space in this area of R & D, promoting the biopharmaceutical industry and capturing trained human resources. This objective will be achieved through 3 specific objectives:
@@ -19,5 +19,5 @@ The RePo-SUDOE project seeks to develop and disseminate technologies for drug re
 
 This project brings together, for the first time, partners from different SUDOE regions and different areas of the drug development value chain, in a common drug repurposing project. The RePo-SUDOE will put at the service of the scientific information society of easy consultation and open access, and decisive visualisation technologies for the affirmation of the area of drug repurposing in the SUDOE space.
 
-![image info](./assets/img/RePo_SUDOE.png)
+![image info](./RePo_SUDOE.png)
 ---
