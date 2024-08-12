@@ -1,12 +1,12 @@
 ---
 layout: post
-title: New position as research support technician.
+title: Employment update!!
 date: 2024-08-11 10:00:00-0400
 inline: false
 related_posts: false
 ---
 
-I am delighted to announce that I have started a new contract as a research support technician in the European project ***"RePo-SUDOE: Drug Repurposing for Effective and Accelerated Drug Development in the SUDOE Space"***. See more information below !!!
+I am delighted to announce that I have started a new contract as a research support technician in the European project ***"RePo-SUDOE: Drug Repurposing for Effective and Accelerated Drug Development in the SUDOE Space"***.
 
 ---
 
@@ -26,5 +26,5 @@ This project brings together, for the first time, partners from different SUDOE 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/RePo_SUDOE.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/RePo_SUDOE.png" title="RePo image" class="img-fluid rounded z-depth-1" %}
 </div>
