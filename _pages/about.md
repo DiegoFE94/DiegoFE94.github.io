@@ -21,6 +21,4 @@ social: true # includes social icons at the bottom of the page
 
 Hi all!! :wave: :wave:
 
-I am Diego, bioinformatician and data scientist focusing on the area of biomedicine. I am interested in all the existing omic fields. Mainly experienced as bioinformatic and data analyst in different projects related to biomedical field. Currently focused microbiome and metagenomics profiles data integration and analysis with Machine Learning frameworks.
-
-Experience working with different Machine Learning frameworks (SVM, RF, Glmnet, etc.) and dimensionality reduction techniques (FS wrapped, filter and embedded) applied in different problems (classification, clustering and regression). Daily use of Python and R. Experience in R Shiny web applications for project data visualization, through basics Shinys or complex Dashboards.
+I am Diego, experienced bioinformatics scientist with 2+ years expertise in computational analysis of diverse biological data. Proficient in leveraging advanced algorithms and high-performance computing, adept at unraveling complex genomic and microbiomic landscapes. Adept in Machine learning and Artificial Intelligence studies related to biomedicine projects. Demonstrated success in developing and implementing cutting-edge methodologies to unravel intricate biological mechanisms.
