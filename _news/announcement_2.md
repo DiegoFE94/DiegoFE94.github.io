@@ -1,12 +1,12 @@
 ---
 layout: post
-title: New position as research support technician in RePo-SUDOE project
+title: New position as research support technician.
 date: 2024-08-11 10:00:00-0400
 inline: false
 related_posts: false
 ---
 
-I am delighted to announce that I have started a new contract as a research support technician in the European project ***"RePo-SUDOE: Drug Repurposing for Effective and Accelerated Drug Development in the SUDOE Space"***. See more information below.
+I am delighted to announce that I have started a new contract as a research support technician in the European project ***"RePo-SUDOE: Drug Repurposing for Effective and Accelerated Drug Development in the SUDOE Space"***. See more information below !!!
 
 ---
 
