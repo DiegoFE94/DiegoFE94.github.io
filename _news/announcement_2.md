@@ -24,7 +24,7 @@ This project brings together, for the first time, partners from different SUDOE 
 
 <p align="center">
   <a href="https://interreg-sudoe.eu/en/proyecto-interreg/repo-sudoe/">
-    <img src="RePo_SUDOE.png" alt="Repo_Flyer" style="transform: scale(0.6);">
+    <img src="./RePo_SUDOE.png" alt="Repo_Flyer" style="transform: scale(0.6);">
   </a>
 </p>
 
