@@ -7,8 +7,9 @@ Tasks to develope my web
 - [x] Delete template publications.
 - [x] Reorder pages: CV, PUBS, BLOG, REP.
 - [x] Change News.
-- [ ] Add better description.
 - [x] Add volunter antibiotics research.
 - [X] Delete projects and let repositories. 
+- [X] Delete Einstein roots.
+- [ ] Add image on last new.
+- [ ] Add better description.
 - [ ] Think about entry blogs.
-- [ ] Delete Einstein roots.
