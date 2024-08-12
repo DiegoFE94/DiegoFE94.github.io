@@ -24,8 +24,9 @@ This project brings together, for the first time, partners from different SUDOE 
 
 ---
 
-<div style="text-align: center;">
-  <img src="1.jpg" alt="Descripción de la imagen" width="300px">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
 
 ---
