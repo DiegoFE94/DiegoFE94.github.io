@@ -11,5 +11,3 @@ I regularly write blog posts on various topics related to bioinformatics and per
 ## Contact Me
 
 If you have any questions or would like to collaborate on a project, feel free to reach out to me. You can find my contact information on my website.
-
-Thank you for visiting my personal website!
