@@ -10,6 +10,6 @@ Tasks to develope my web
 - [x] Add volunter antibiotics research.
 - [X] Delete projects and let repositories. 
 - [X] Delete Einstein roots.
-- [ ] Add image on last new.
+- [X] Add image on last new.
 - [ ] Add better description.
 - [ ] Think about entry blogs.
