@@ -3,8 +3,8 @@ github_users:
 
 github_repos:
   - DiegoFE94/MLMetaGenomics
-  - MALL-Machine-Learning-in-Live-Sciences/VIBES-analysis
+  - MALL-Lab/VIBES-analysis
   - DiegoFE94/App_CPD
-  - MALL-Machine-Learning-in-Live-Sciences/VIBES
-  - MALL-Machine-Learning-in-Live-Sciences/MLMicrobiomeT1D
-  - MALL-Machine-Learning-in-Live-Sciences/DREAM-Microbiome
+  - MALL-Lab/VIBES
+  - MALL-Lab/MLMicrobiomeT1D
+  - MALL-Lab/DREAM-Microbiome
