@@ -56,7 +56,7 @@
       "url": "https://www.fundacionprofesornovoasantos.org/es/",
       "startDate": "2021",
       "endDate": "2021",
-      "summary": "working as a bioinformatics researcher in a colorectal cancer project. During this period I gained experience in metagenomic data processing, as well as, developing Machine Learning and Artificial Intelligence pipelines. Also I gained experience in the presentation and visualization of complex data.",
+      "summary": "Working as a bioinformatics researcher in a colorectal cancer project. During this period I gained experience in metagenomic data processing, as well as, developing Machine Learning and Artificial Intelligence pipelines. Also I gained experience in the presentation and visualization of complex data.",
       "highlights": ["Bioinformatics", "Machine Learning"]
     }
   ],
@@ -153,6 +153,27 @@
     }
   ],
   "publications": [
+    {
+      "name": "RePo-SUDOE - A translational network for drug repurposing in the SUDOE space",
+      "publisher": "RExPO25 Conference",
+      "releaseDate": "2025-06-30",
+      "url": "https://doi.org/10.58647/REXPO.25000100.v1",
+      "summary": "The RePo-SUDOE project brings together diverse partners from the SUDOE space to collaborate on drug repurposing, making scientific information more accessible and using advanced visualization technologies to strengthen the field in this geographic region."
+    },
+    {
+      "name": "Fecal microbiome analysis in patients with metabolic syndrome and type 2 diabetes",
+      "publisher": "PeerJ",
+      "releaseDate": "2025-06-11",
+      "url": "https://doi.org/10.7717/peerj.19108",
+      "summary": "This study reveals notable differences in the intestinal microbiota composition among patients with MS and T2D."
+    },
+    {
+      "name": "Cross Sequencing Integration of Compositional Microbiome Data in Cancer",
+      "publisher": "Lecture Notes in Computer Science",
+      "releaseDate": "2025-05-15",
+      "url": "https://doi.org/10.1007/978-3-031-89704-7_6",
+      "summary": "This work evaluates batch effect removal (BER) methods for integrating microbiome composition data from different sequencing platforms."
+    },
     {
       "name": "Microbiome preterm birth DREAM challenge: Crowdsourcing machine learning approaches to advance preterm birth research",
       "publisher": "Cell Reports Medicine",
