@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Bioinformatician and PhD student at <a href='https://mall-lab.citic.udc.es/'>MALL</a>.
+subtitle: Bioinformatician and Substitute Professor at <a href='https://fic.udc.es/'>Universidade da Coruña</a> · <a href='https://mall-lab.citic.udc.es/'>MALL Lab</a>
 
 profile:
   align: right
