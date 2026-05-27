@@ -4,21 +4,20 @@
     "label": "Bioinformatician & Data Scientist",
     "image": "",
     "email": "diego.fedreira@udc.es",
-    "phone": "661 122 869",
     "url": "https://diegofe94.github.io",
-    "summary": "Biologist and bioinformatician. Also a PhD student in Bioinformatics for health",
+    "summary": "Biologist and bioinformatician. PhD in Bioinformatics for health.",
     "location": {
       "address": "Campus de Elviña, s/n, 2 Floor, C-46",
       "postalCode": "A Coruña 15011",
       "city": "A Coruña",
-      "countryCode": "SPA",
-      "region": "Galica"
+      "countryCode": "ES",
+      "region": "Galicia"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "X (Twitter)",
+        "username": "diego_edreira",
+        "url": "https://twitter.com/diego_edreira"
       }
     ]
   },
@@ -79,8 +78,8 @@
       "area": "Bioinformatics",
       "studyType": "PhD at MALL Lab",
       "startDate": "2021",
-      "endDate": "",
-      "score": "TBD",
+      "endDate": "2026",
+      "score": "Cum laude",
       "courses": ["Bioinformatics"]
     },
     {
@@ -285,7 +284,7 @@
       "reference": "Associate Professor (Profesor Titular de Universidad) and vice-dean of computing resources of the Faculty of Computer Science at the University of A Coruña (UDC), Department of Computer Science and Information Technologies. Affiliated Researcher at the Centre for Information and Communications Technology Research (CITIC)."
     },
     {
-      "name": "Dr. Jose Lilñares Blanco",
+      "name": "Dr. Jose Liñares Blanco",
       "icon": "fa-solid fa-person-walking-luggage",
       "reference": "Postdoctoral researcher at Institute for Computational Biomedicine - Heidelberg University"
     }
