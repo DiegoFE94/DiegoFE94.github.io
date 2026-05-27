@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Research stay at VHIO (Barcelona) 🔬
-date: 2026-06-01 09:00:00-0000
+date: 2026-05-27 09:00:00-0000
 inline: false
 related_posts: false
 ---
